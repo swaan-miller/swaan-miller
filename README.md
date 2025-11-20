@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑🏼‍💻: I am an iOS developer at WeTransfer
+- 🧑🏼‍💻: I am an iOS developer at NOWATCH | ex-WeTransfer
 - :book: I studied software engineering at Codam Coding College [42 Global Network]
 - 📫 How to reach me: https://www.linkedin.com/in/swaan-miller/
 - 😄 Pronouns: she/her
